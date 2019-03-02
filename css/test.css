@@ -1,0 +1,25 @@
+body{
+	background-color: lightgrey;
+}
+h1{
+		color: red; 
+		font-size: 90px;
+		text-decoration: underline;
+
+
+	}
+
+#first{
+font-size: 150px;
+}
+	h2{
+		color: green; 
+		font-size: 22px;
+
+
+
+	}	
+
+	.small{
+		font-size: 12px
+	}
